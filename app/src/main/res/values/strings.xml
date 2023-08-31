@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">UserCustomDialog</string>
+    <string name="dialog_title">You have run out of \nfree uses</string>
 </resources>
