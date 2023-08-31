@@ -1,0 +1,5 @@
+<resources>
+    <style name="CustomDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/dialog_bg</item>
+    </style>
+</resources>
